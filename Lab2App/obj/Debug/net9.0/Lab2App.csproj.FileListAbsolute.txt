@@ -1,0 +1,15 @@
+D:\cpp\Lab2App\bin\Debug\net9.0\Lab2App.exe
+D:\cpp\Lab2App\bin\Debug\net9.0\Lab2App.deps.json
+D:\cpp\Lab2App\bin\Debug\net9.0\Lab2App.runtimeconfig.json
+D:\cpp\Lab2App\bin\Debug\net9.0\Lab2App.dll
+D:\cpp\Lab2App\bin\Debug\net9.0\Lab2App.pdb
+D:\cpp\Lab2App\obj\Debug\net9.0\Lab2App.GeneratedMSBuildEditorConfig.editorconfig
+D:\cpp\Lab2App\obj\Debug\net9.0\Lab2App.AssemblyInfoInputs.cache
+D:\cpp\Lab2App\obj\Debug\net9.0\Lab2App.AssemblyInfo.cs
+D:\cpp\Lab2App\obj\Debug\net9.0\Lab2App.csproj.CoreCompileInputs.cache
+D:\cpp\Lab2App\obj\Debug\net9.0\Lab2App.sourcelink.json
+D:\cpp\Lab2App\obj\Debug\net9.0\Lab2App.dll
+D:\cpp\Lab2App\obj\Debug\net9.0\refint\Lab2App.dll
+D:\cpp\Lab2App\obj\Debug\net9.0\Lab2App.pdb
+D:\cpp\Lab2App\obj\Debug\net9.0\Lab2App.genruntimeconfig.cache
+D:\cpp\Lab2App\obj\Debug\net9.0\ref\Lab2App.dll
