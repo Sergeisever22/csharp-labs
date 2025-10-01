@@ -1,0 +1,29 @@
+# Компиляция
+bin/
+obj/
+
+# Пользовательские настройки Visual Studio
+.vs/
+*.user
+*.suo
+
+# Кеш
+*.cache
+*.log
+
+# Конфигурационные файлы Rider/Resharper
+.idea/
+*.DotSettings
+
+# Пакеты (скачиваются снова при восстановлении)
+packages/
+*.nupkg
+
+# Секреты и ключи
+*.pfx
+*.snk
+
+# Системные файлы
+Thumbs.db
+ehthumbs.db
+Desktop.ini
