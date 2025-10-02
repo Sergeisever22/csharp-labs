@@ -25,7 +25,7 @@ Client client2 = new()
 };
 
 //функция вычисляющая сумму цены всех покупок 
-static void ClientOrder(Choices price, Client client1, Client client2)
+void ClientOrder()
 {
     int ClientOrder1 = client1.FantaCount * price.fanta + client1.ColaCount * price.cola + client1.CipsCount * price.cips;
     int ClientOrder2 = client2.FantaCount * price.fanta + client2.ColaCount * price.cola + client2.CipsCount * price.cips;
@@ -34,7 +34,7 @@ static void ClientOrder(Choices price, Client client1, Client client2)
     Console.WriteLine(ClientOrder2);
 }
 
-ClientOrder( price,client1,client2);
+ClientOrder();
 //Какие товары существуют
 struct Choices
 {
